@@ -28,7 +28,7 @@
     },
     "ITC_TOKEN": {
       "description": "Optional: Set a password to protect your website from random people signing up.",
-      "required": false
+      "required": true
     },
     "GA_PROPERTY_ID": {
       "description": "Optional: Configure Google Analytics to track visitors on your website.",
